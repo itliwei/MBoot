@@ -1,2 +1,2 @@
-# MBoot
-MBoot
+# MinBoot
+MinBoot
